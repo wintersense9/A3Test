@@ -1,0 +1,12 @@
+{
+  "name": "...",
+  "version": "1.0.0",
+  "author": "... (...@live.hkmu.edu.hk)",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+	"nodemon":"*",
+	"express": "*"
+  }
+}
